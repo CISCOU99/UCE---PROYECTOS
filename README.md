@@ -25,4 +25,9 @@ Crear un sitio web atractivo, funcional y adaptable a diferentes dispositivos, u
 └── /img
 └── (imágenes)
 
+**FOTOS**
+<img width="1090" height="606" alt="image" src="https://github.com/user-attachments/assets/029af85e-9e24-410a-a329-ea4ef3c5aaf6" />
+<img width="1020" height="598" alt="image" src="https://github.com/user-attachments/assets/629b3d60-9213-4e43-842d-1447beb60797" />
+
+
 
