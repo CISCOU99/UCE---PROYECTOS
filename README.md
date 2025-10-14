@@ -1,4 +1,4 @@
-# 🌐 Proyecto de Diseño Web - DIESÑO WEB
+# 🌐 Proyecto de Diseño Web - DIESEÑO WEB/CURSO DE PROGRAMACIÓN
 
 Este proyecto fue desarrollado como parte de mi formación universitaria, enfocado en el diseño y desarrollo de interfaces web modernas, aplicando principios de usabilidad, accesibilidad y diseño responsivo.
 
